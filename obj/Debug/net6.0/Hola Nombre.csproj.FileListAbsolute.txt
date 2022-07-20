@@ -1,0 +1,30 @@
+C:\Users\Miryam\source\C#10\Hola Nombre\bin\Debug\net6.0\Hola Nombre.exe
+C:\Users\Miryam\source\C#10\Hola Nombre\bin\Debug\net6.0\Hola Nombre.deps.json
+C:\Users\Miryam\source\C#10\Hola Nombre\bin\Debug\net6.0\Hola Nombre.runtimeconfig.json
+C:\Users\Miryam\source\C#10\Hola Nombre\bin\Debug\net6.0\Hola Nombre.dll
+C:\Users\Miryam\source\C#10\Hola Nombre\bin\Debug\net6.0\Hola Nombre.pdb
+C:\Users\Miryam\source\C#10\Hola Nombre\obj\Debug\net6.0\Hola Nombre.csproj.AssemblyReference.cache
+C:\Users\Miryam\source\C#10\Hola Nombre\obj\Debug\net6.0\Hola Nombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miryam\source\C#10\Hola Nombre\obj\Debug\net6.0\Hola Nombre.AssemblyInfoInputs.cache
+C:\Users\Miryam\source\C#10\Hola Nombre\obj\Debug\net6.0\Hola Nombre.AssemblyInfo.cs
+C:\Users\Miryam\source\C#10\Hola Nombre\obj\Debug\net6.0\Hola Nombre.csproj.CoreCompileInputs.cache
+C:\Users\Miryam\source\C#10\Hola Nombre\obj\Debug\net6.0\Hola Nombre.dll
+C:\Users\Miryam\source\C#10\Hola Nombre\obj\Debug\net6.0\refint\Hola Nombre.dll
+C:\Users\Miryam\source\C#10\Hola Nombre\obj\Debug\net6.0\Hola Nombre.pdb
+C:\Users\Miryam\source\C#10\Hola Nombre\obj\Debug\net6.0\Hola Nombre.genruntimeconfig.cache
+C:\Users\Miryam\source\C#10\Hola Nombre\obj\Debug\net6.0\ref\Hola Nombre.dll
+C:\Users\Miryam\source\C#10\Ejercicios Sesion 1\bin\Debug\net6.0\Hola Nombre.exe
+C:\Users\Miryam\source\C#10\Ejercicios Sesion 1\bin\Debug\net6.0\Hola Nombre.deps.json
+C:\Users\Miryam\source\C#10\Ejercicios Sesion 1\bin\Debug\net6.0\Hola Nombre.runtimeconfig.json
+C:\Users\Miryam\source\C#10\Ejercicios Sesion 1\bin\Debug\net6.0\Hola Nombre.dll
+C:\Users\Miryam\source\C#10\Ejercicios Sesion 1\bin\Debug\net6.0\Hola Nombre.pdb
+C:\Users\Miryam\source\C#10\Ejercicios Sesion 1\obj\Debug\net6.0\Hola Nombre.csproj.AssemblyReference.cache
+C:\Users\Miryam\source\C#10\Ejercicios Sesion 1\obj\Debug\net6.0\Hola Nombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miryam\source\C#10\Ejercicios Sesion 1\obj\Debug\net6.0\Hola Nombre.AssemblyInfoInputs.cache
+C:\Users\Miryam\source\C#10\Ejercicios Sesion 1\obj\Debug\net6.0\Hola Nombre.AssemblyInfo.cs
+C:\Users\Miryam\source\C#10\Ejercicios Sesion 1\obj\Debug\net6.0\Hola Nombre.csproj.CoreCompileInputs.cache
+C:\Users\Miryam\source\C#10\Ejercicios Sesion 1\obj\Debug\net6.0\Hola Nombre.dll
+C:\Users\Miryam\source\C#10\Ejercicios Sesion 1\obj\Debug\net6.0\refint\Hola Nombre.dll
+C:\Users\Miryam\source\C#10\Ejercicios Sesion 1\obj\Debug\net6.0\Hola Nombre.pdb
+C:\Users\Miryam\source\C#10\Ejercicios Sesion 1\obj\Debug\net6.0\Hola Nombre.genruntimeconfig.cache
+C:\Users\Miryam\source\C#10\Ejercicios Sesion 1\obj\Debug\net6.0\ref\Hola Nombre.dll
